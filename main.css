@@ -26,21 +26,14 @@ h1 span{
 	font-size: 1.6em;
 	font-weight: bold;
 	margin-bottom: 0.1;
-	color: rgba(14, 164, 92, 0.78);
+	background-color: #48B5B8;
 }
 
 p span{
 	
 	font-size: 1.4em;
 	margin-top: 0;
-	background-color: rgba(14, 164, 92, 0.78);
+	background-color: #48B5B8;
 	text-align: center;
 
-}
-
-hr {
-
-    border: 0;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(14, 164, 92, 0.78), rgba(0, 0, 0, 0));
 }
